@@ -2,28 +2,28 @@
     <channel>
         <title><![CDATA[Laboratorio Pia]]></title>
         <description><![CDATA[Laboratorio Pia]]></description>
-        <link>http://developia.it/</link>
+        <link>https://thegrid.ai/pia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Mar 2016 18:03:19 GMT</lastBuildDate>
-        <atom:link href="http://developia.it/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 27 Mar 2016 18:08:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/28a02056-8dc5-41a7-9ea2-242425584aff.png">]]></description>
-            <link>http://developia.it/ilatinista/index.html</link>
+            <link>https://thegrid.ai/pia/ilatinista/index.html</link>
             <guid isPermaLink="false">b70ddfcd-7f63-4b0b-9dca-6a722d82e24e</guid>
             <pubDate>Sun, 27 Mar 2016 18:02:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6228ac42-4de7-4235-bdc6-bb213a2dd724.png">]]></description>
-            <link>http://developia.it/greco-antico-app/index.html</link>
+            <link>https://thegrid.ai/pia/greco-antico-app/index.html</link>
             <guid isPermaLink="false">95513c45-01be-47d0-a608-4c7cd70e1eea</guid>
-            <pubDate>Sun, 27 Mar 2016 18:00:45 GMT</pubDate>
+            <pubDate>Sun, 27 Mar 2016 18:08:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ciao mondo]]></title>
             <description><![CDATA[<article><h1>Ciao mondo</h1><p>Ciao Mondo</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f25be7b0199929c296d1adb56fd9ff167ad8e1dc.jpg"></article>]]></description>
-            <link>http://developia.it/ciao-mondo/index.html</link>
+            <link>https://thegrid.ai/pia/ciao-mondo/index.html</link>
             <guid isPermaLink="false">fc4ef6c7-c117-45d6-bff1-89c49a81dcc4</guid>
             <pubDate>Sun, 27 Mar 2016 17:34:14 GMT</pubDate>
         </item>
