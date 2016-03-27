@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Greco Antico App
-datePublished: '2016-03-27T18:00:45.098Z'
-dateModified: '2016-03-27T18:00:18.681Z'
+datePublished: '2016-03-27T18:08:07.382Z'
+dateModified: '2016-03-27T18:07:47.727Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-27-greco-antico-app.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-27-greco-antico-app.md
-published: true
 url: greco-antico-app/index.html
 _type: Article
 
